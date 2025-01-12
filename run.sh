@@ -1,0 +1,1 @@
+make -j && ./TP_CONTROL_BIPED.out
